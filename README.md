@@ -8,3 +8,6 @@ This project which we have is just a prototype and furthur changes will be made 
 
 
 I have used the plateform of REPLIT https://replit.com to complete this project
+
+
+![Screenshot 2023-07-27 085646](https://github.com/aryat10/Country_Guide/assets/107941072/c1e4ad53-8177-40ed-90e3-9fd16b0107e2)
